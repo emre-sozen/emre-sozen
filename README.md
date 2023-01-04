@@ -7,8 +7,7 @@
 </p>
 <ul>
   <li>👨‍💻 Frontend Developer </li>
-  <li>💬 Ask me about anything, I'll be happy to help.</li>
-  <li>📫 How to reach me: <a href="mailto:szn.emre1@gmail.com">Click here for email</a></li>
+  <li>📫 How to contact me: <a href="mailto:szn.emre1@gmail.com">Click here for email</a></li>
 </ul>
 
 <h3>🚀 Languages and Tools</h3>
