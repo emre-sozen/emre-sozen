@@ -1,4 +1,4 @@
-<h1 align="center">Hi, it's Emre <img src="assets/hi.gif" width="30px"></h1>
+<h1 align="center">Hi, it's Emre <img src="https://raw.githubusercontent.com/oguzhnatly/oguzhnatly/master/assets/hi.gif" width="30px"></h1>
 <p align="center"><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
 <p align="center">
   <a target="_blank" href="https://github.com/emre-sozen"></a>
