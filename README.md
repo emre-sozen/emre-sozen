@@ -6,7 +6,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/emre-sözen-132b9b1b7/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 <ul>
-  <li>👨‍💻 Passionate Developer.</li>
+  <li>👨‍💻 Frontend Developer </li>
   <li>💬 Ask me about anything, I'll be happy to help.</li>
   <li>📫 How to reach me: <a href="mailto:szn.emre1@gmail.com">Click here for email</a></li>
 </ul>
