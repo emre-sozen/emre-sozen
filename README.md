@@ -1,5 +1,4 @@
-![1665500181551](https://user-images.githubusercontent.com/72317623/210522180-367ea241-3362-4b10-9865-7d787091e4c2.jpg)
-
+![avatar](https://user-images.githubusercontent.com/72317623/210522536-e652cc44-6b2d-4622-b9b3-6e6bfba08a69.png)
 
 Hi there. It's Emre. I am Software Engineer 👋
 
